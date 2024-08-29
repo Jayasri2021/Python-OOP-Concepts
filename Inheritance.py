@@ -29,4 +29,4 @@ class Agent(Person):
 
 x = Agent("John","Smith","Mr. X")
 print(x.code_name)
-x.reveal(1234)
+x.reveal(123)
